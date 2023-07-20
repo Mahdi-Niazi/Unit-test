@@ -1,0 +1,23 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000u\u0000n\u0000i\u0000t\u0000-\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahdi-Niazi/unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahdi-Niazi/unit-test/issues"
+  },
+  "homepage": "https://github.com/Mahdi-Niazi/unit-test#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
