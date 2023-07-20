@@ -8,9 +8,10 @@ const functions = {
     }
   },
   strReverse: (str) => {
-    str = str.split("").reverse().join("");
+    str = str.toLowerCase().split("").reverse().join("");
     return str;
   },
 };
 
 module.exports = functions;
+

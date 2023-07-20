@@ -7,5 +7,6 @@ test("hackerteam length should be 10 characters", () => {
 
 // Return the reverse of the string.
 test("mahdi should be idham", () => {
-  expect(functions.strReverse("mahdi")).toBe("idham");
+  expect(functions.strReverse).toBeDefined();
+  expect(functions.strReverse("Mahdi")).toEqual("idham");
 });
